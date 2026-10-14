@@ -1,0 +1,26 @@
+{
+  "product": {
+    "id": 1,
+    "name": "Proc",
+    "options": [],
+    "price": {
+      "netPrice": 3000.00,
+      "grossPrice": 690.00,
+      "taxRate": 0.23
+    },
+    "quantity": 1,
+    "type": "Proc"
+  },
+  "selectedOptions": [
+    {
+      "id": 1,
+      "name": "Proc",
+      "price": {
+        "netPrice": 3000.00,
+        "grossPrice": 690.00,
+        "taxRate": 0.23
+      },
+      "type": "Proc"
+    }
+  ]
+}
